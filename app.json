@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Misbahir Rawi مصباح الراوي",
-    "slug": "audioplayer",
+    "slug": "myplayer",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -14,14 +14,14 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ahmuktar.audioplayer"
+      "bundleIdentifier": "com.ahmuktar.myplayer"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.ahmuktar.audioplayer"
+      "package": "com.ahmuktar.myplayer"
     },
     "web": {
       "bundler": "metro",
